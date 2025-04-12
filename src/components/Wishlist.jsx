@@ -1,6 +1,6 @@
 import React from "react";
 
-const Wishlist = ({ wishlist, onRemove }) => {
+const WishList = ({ wishlist, onRemove }) => {
   if (wishlist.length === 0) {
     return (
       <div className="mt-8 text-center text-gray-500 text-lg">
@@ -45,4 +45,4 @@ const Wishlist = ({ wishlist, onRemove }) => {
   );
 };
 
-export default Wishlist;
+export default WishList;

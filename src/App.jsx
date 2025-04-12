@@ -5,7 +5,7 @@ import CardDetails from "./pages/CardDetails";
 import Navbar from "./components/Navbar";
 import carsData from "./cardata/cars";
 import axios from "axios";
-import Wishlist from "./components/Wishlist";
+import Wishlist from "./components/WishList";
 import { toast, ToastContainer } from "react-toastify";
 import img from "./assets/car.svg";
 
