@@ -5,9 +5,9 @@ import CardDetails from "./pages/CardDetails";
 import Navbar from "./components/Navbar";
 import carsData from "./cardata/cars";
 import axios from "axios";
-import Wishlist from "./components/WishList";
 import { toast, ToastContainer } from "react-toastify";
 import img from "./assets/car.svg";
+import WishList from "./components/WishList";
 
 function App() {
   const [filters, setFilters] = useState({
@@ -134,7 +134,7 @@ function App() {
             <Route
               path="/wishlist"
               element={
-                <Wishlist
+                <WishList
                   wishlist={wishlist}
                   onRemove={handleRemoveFromWishlist}
                 />
