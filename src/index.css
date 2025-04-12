@@ -1,1 +1,36 @@
 @import "tailwindcss";
+@custom-variant dark (&:where(.dark, .dark *));
+
+@keyframes moveCar {
+  0% {
+    transform: translateX(-100px);
+  }
+  100% {
+    transform: translateX(100vw);
+  }
+}
+.animate-car-move {
+  animation: moveCar 3s linear infinite;
+}
+@keyframes bounce-car {
+  0% {
+    transform: translateX(0);
+    filter: drop-shadow(0 0 0 transparent);
+  }
+  40% {
+    transform: translateX(10vw);
+    filter: drop-shadow(0 0 0 transparent);
+  }
+  60% {
+    transform: translateX(10vw);
+    filter: drop-shadow(0 0 10px rgba(255, 200, 0, 0.7));
+  }
+  100% {
+    transform: translateX(0);
+    filter: drop-shadow(0 0 20px rgba(255, 230, 0, 1)); 
+  }
+}
+
+.animate-bounce-car {
+  animation: bounce-car 4s cubic-bezier(0.65, 0, 0.35, 1)  ;
+}

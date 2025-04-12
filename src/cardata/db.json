@@ -1,0 +1,185 @@
+{
+    "cars": [
+      {
+        "id": 1,
+        "name": "Toyota Innova",
+        "brand": "Toyota",
+        "fuel": "Diesel",
+        "seating": 7,
+        "price": 1800000,
+        "image": "https://via.placeholder.com/400x200"
+      },
+      {
+        "id": 2,
+        "name": "Honda City",
+        "brand": "Honda",
+        "fuel": "Petrol",
+        "seating": 5,
+        "price": 1200000,
+        "image": "https://via.placeholder.com/400x200"
+      },
+      {
+        "id": 3,
+        "name": "Maruti Suzuki Swift",
+        "brand": "Maruti Suzuki",
+        "fuel": "Petrol",
+        "seating": 5,
+        "price": 800000,
+        "image": "https://via.placeholder.com/400x200"
+      },
+      {
+        "id": 4,
+        "name": "Hyundai Creta",
+        "brand": "Hyundai",
+        "fuel": "Diesel",
+        "seating": 5,
+        "price": 1500000,
+        "image": "https://via.placeholder.com/400x200"
+      },
+      {
+        "id": 5,
+        "name": "Tata Nexon",
+        "brand": "Tata",
+        "fuel": "Petrol",
+        "seating": 5,
+        "price": 1000000,
+        "image": "https://via.placeholder.com/400x200"
+      },
+      {
+        "id": 6,
+        "name": "Mahindra Scorpio",
+        "brand": "Mahindra",
+        "fuel": "Diesel",
+        "seating": 7,
+        "price": 1700000,
+        "image": "https://via.placeholder.com/400x200"
+      },
+      {
+        "id": 7,
+        "name": "Ford EcoSport",
+        "brand": "Ford",
+        "fuel": "Petrol",
+        "seating": 5,
+        "price": 1100000,
+        "image": "https://via.placeholder.com/400x200"
+      },
+      {
+        "id": 8,
+        "name": "Renault Kwid",
+        "brand": "Renault",
+        "fuel": "Petrol",
+        "seating": 5,
+        "price": 500000,
+        "image": "https://via.placeholder.com/400x200"
+      },
+      {
+        "id": 9,
+        "name": "Kia Seltos",
+        "brand": "Kia",
+        "fuel": "Diesel",
+        "seating": 5,
+        "price": 1400000,
+        "image": "https://via.placeholder.com/400x200"
+      },
+      {
+        "id": 10,
+        "name": "Volkswagen Polo",
+        "brand": "Volkswagen",
+        "fuel": "Petrol",
+        "seating": 5,
+        "price": 900000,
+        "image": "https://via.placeholder.com/400x200"
+      },
+      {
+        "id": 11,
+        "name": "Nissan Magnite",
+        "brand": "Nissan",
+        "fuel": "Petrol",
+        "seating": 5,
+        "price": 750000,
+        "image": "https://via.placeholder.com/400x200"
+      },
+      {
+        "id": 12,
+        "name": "Skoda Kushaq",
+        "brand": "Skoda",
+        "fuel": "Petrol",
+        "seating": 5,
+        "price": 1350000,
+        "image": "https://via.placeholder.com/400x200"
+      },
+      {
+        "id": 13,
+        "name": "Hyundai Venue",
+        "brand": "Hyundai",
+        "fuel": "Diesel",
+        "seating": 5,
+        "price": 1300000,
+        "image": "https://via.placeholder.com/400x200"
+      },
+      {
+        "id": 14,
+        "name": "MG Hector",
+        "brand": "MG",
+        "fuel": "Petrol",
+        "seating": 5,
+        "price": 1600000,
+        "image": "https://via.placeholder.com/400x200"
+      },
+      {
+        "id": 15,
+        "name": "Jeep Compass",
+        "brand": "Jeep",
+        "fuel": "Diesel",
+        "seating": 5,
+        "price": 2200000,
+        "image": "https://via.placeholder.com/400x200"
+      },
+      {
+        "id": 16,
+        "name": "Maruti Suzuki Ertiga",
+        "brand": "Maruti Suzuki",
+        "fuel": "Petrol",
+        "seating": 7,
+        "price": 950000,
+        "image": "https://via.placeholder.com/400x200"
+      },
+      {
+        "id": 17,
+        "name": "Honda Amaze",
+        "brand": "Honda",
+        "fuel": "Diesel",
+        "seating": 5,
+        "price": 800000,
+        "image": "https://via.placeholder.com/400x200"
+      },
+      {
+        "id": 18,
+        "name": "Toyota Fortuner",
+        "brand": "Toyota",
+        "fuel": "Diesel",
+        "seating": 7,
+        "price": 3500000,
+        "image": "https://via.placeholder.com/400x200"
+      },
+      {
+        "id": 19,
+        "name": "Mahindra XUV700",
+        "brand": "Mahindra",
+        "fuel": "Diesel",
+        "seating": 7,
+        "price": 2400000,
+        "image": "https://via.placeholder.com/400x200"
+      },
+      {
+        "id": 20,
+        "name": "Tata Tiago",
+        "brand": "Tata",
+        "fuel": "Petrol",
+        "seating": 5,
+        "price": 600000,
+        "image": "https://via.placeholder.com/400x200"
+      }
+    ]
+  }
+  
